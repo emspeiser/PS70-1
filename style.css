@@ -1,5 +1,5 @@
 body {
-    font: 20px "Gill Sans", Verdana, sans-serif;
+    font: 20px "Times New Roman", serif;
     line-height: 1.8;
     color: #000000;
     background-color: #E7DDFF;
@@ -91,7 +91,7 @@ nav {
 code {
   background-color: #2d2b33;
   color: #E7DDFF;
-  font-family: 'Times New Roman', 'Serif', monospace;
+  font-family: 'Times New Roman', Serif, monospace;
 }
 
 .caption {
