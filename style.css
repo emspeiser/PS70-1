@@ -1,4 +1,13 @@
+: root {
+
+  --royal-purple: #7851A9;
+  --silver: #C0C0C0;
+  --deep-teal: #008080;
+  --pearl: #F5F5F5;
+}
+
 body {
+    
     font: 20px "Times New Roman", serif;
     line-height: 1.8;
     color: #000000;
@@ -23,7 +32,7 @@ a {
 }
 
 nav {
-  background-color: #E7DDFF;
+  background-color: var(--pearl);
   color: #E7DDFF;
   padding: 50px 0px;
 }
