@@ -70,8 +70,8 @@ nav {
   border: 3px outset #FFFFFF;
   border-radius: 40px;
   padding: 10px 30px;
-  background-color: #a3a3a3;
-  color: var(--royal-purple);
+  background-color: var(--royal-purple);
+  color: var(--pearl);
   transition: 0.3s;
 }
 
