@@ -11,7 +11,7 @@ body {
     font: 20px "Times New Roman", serif;
     line-height: 1.8;
     color: #000000;
-    background-color: #E7DDFF;
+    background-color: var(--pearl);
     padding-top: 0px !important;
   }
 
@@ -33,7 +33,7 @@ a {
 
 nav {
   background-color: var(--pearl);
-  color: #E7DDFF;
+  color: #EE4B2B;
   padding: 50px 0px;
 }
 
