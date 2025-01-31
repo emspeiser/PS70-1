@@ -23,7 +23,8 @@ p {font-size: 16px;}
 .margin {margin-bottom: 30px;}
 
 a {
-  color: #000000;
+  color: var(--deep-teal); /*was black*/
+
 }
 
 .container-fluid {
