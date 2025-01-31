@@ -71,8 +71,8 @@ nav {
   border: 3px outset #FFFFFF;
   border-radius: 40px;
   padding: 10px 30px;
-  background-color: var(--royal-purple);
-  color: var(--pearl);
+  background-color: var(--deep-teal);
+  color: var(--silver);
   transition: 0.3s;
 }
 
@@ -80,7 +80,7 @@ nav {
   border: 3px inset #FFFFFF;
   border-radius: 40px;
   padding: 10px 30px;
-  background-color: var(--deep-teal);
+  background-color: var(--pearl);
   transition: 0.3s;
 }
 
@@ -100,7 +100,7 @@ nav {
 
 code {
   background-color: var(--silver);
-  color: var(--deep-teal);
+  color: var(--royal-purple);
   font-family: 'Times New Roman', Serif, monospace;
 }
 
